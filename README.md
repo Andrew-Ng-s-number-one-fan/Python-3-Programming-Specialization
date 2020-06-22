@@ -1,5 +1,5 @@
 # [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming)
-A series of 5 courses offered by the University of Michigan
+<i>A series of 5 courses offered by the University of Michigan</i>
 
 #### Course 1: [Python Basics](https://www.coursera.org/learn/python-basics?specialization=python-3-programming)
 
